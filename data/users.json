@@ -1,8 +1,14 @@
 [
     {
         "id": 1,
-        "name": "UsuÃ¡rio Teste",
+        "name": "UsuÃÂ¡rio Teste",
         "email": "uduarioteste@email.com",
-        "birthdate": "1999-10-21"
+        "password": "$2b$12$bCfB6Eh.JC9nPvrWi3lcmuLQc52epp8DRyn9CTRJMPP2B.dRD9uKq"
+    },
+    {
+        "id": 9,
+        "name": "lalalal",
+        "email": "admin2@gmail.com",
+        "password": "$2b$12$r5AjgW40LfZPKhzrzrkxIeW/WPdeMsIp7TS3vvoEgQw.Hawks5hs."
     }
 ]
